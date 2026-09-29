@@ -1,0 +1,12 @@
+---
+title: Working with maps
+date: 2026-02-14
+description: One nested category and one top-level category.
+categories:
+  - charts/maps
+  - examples
+---
+
+## Hello again
+
+This post is listed under `charts/maps` and `examples`.

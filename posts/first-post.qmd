@@ -1,0 +1,12 @@
+---
+title: A first chart
+date: 2026-01-10
+description: Tagged with two subcategories of charts.
+categories:
+  - charts/bar
+  - charts/line
+---
+
+## Hello
+
+This post is listed under `charts/bar` and `charts/line`, so it also appears when filtering by `charts`.

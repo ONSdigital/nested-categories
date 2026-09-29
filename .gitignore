@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+nul
+*.Rproj
+
+/.luarc.json
+
+/.quarto/
+**/*.quarto_ipynb
+
+_site/*

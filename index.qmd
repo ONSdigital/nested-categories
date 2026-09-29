@@ -1,0 +1,8 @@
+---
+title: Blog
+listing:
+  contents: posts
+  type: default
+  categories: true
+  sort: date desc
+---
