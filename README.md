@@ -9,7 +9,7 @@ HTML output only.
 From the root of your Quarto project:
 
 ```bash
-quarto add nrennie/nested-categories
+quarto add ONSdigital/nested-categories
 ```
 
 This adds the extension to `_extensions/`. Then enable the filter in `_quarto.yml`:
